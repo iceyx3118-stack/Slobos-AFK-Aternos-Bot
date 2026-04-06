@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Bot",
+    "username": "bot",
     "password": "",
     "type": "offline"
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 450,
+      "repeat-delay": 250,
       "messages": [
         "GHOP GHOP GHOP",
         "Sankalp bhai kinner",
@@ -45,7 +45,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 1,
+      "radius": 6,
       "speed": 3000
     },
     "look-around": {
